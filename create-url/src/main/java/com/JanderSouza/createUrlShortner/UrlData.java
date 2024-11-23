@@ -1,4 +1,4 @@
-package com.maxley.createUrlShortner;
+package com.jander.createUrlShortner;
 
 public class UrlData {
 }
